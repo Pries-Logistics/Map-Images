@@ -30,8 +30,8 @@
   {
     "Name": "Ogden",
     "Country": "utah",
-    "X": -68788.7344,
-    "Y": -19876.89,
+    "X": -67030.36,
+    "Y": -19688.0039,
     "CountryId": 44
   },
   {
@@ -238,10 +238,17 @@
     "CountryId": 1
   },
   {
-    "Name": "Hornbrook",
+    "Name": "Medford",
+    "Country": "oregon",
+    "X": -111057.805,
+    "Y": -36474.28,
+    "CountryId": 37
+  },
+  {
+    "Name": "Hilt",
     "Country": "california",
-    "X": -110319.344,
-    "Y": -31655.71,
+    "X": -110201.828,
+    "Y": -32496.5039,
     "CountryId": 1
   },
   {
@@ -721,13 +728,6 @@
     "CountryId": 37
   },
   {
-    "Name": "Medford",
-    "Country": "oregon",
-    "X": -111057.805,
-    "Y": -36474.28,
-    "CountryId": 37
-  },
-  {
     "Name": "Newport",
     "Country": "oregon",
     "X": -111335.258,
@@ -805,6 +805,13 @@
     "CountryId": 47
   },
   {
+    "Name": "Osoyoos",
+    "Country": "bc",
+    "X": -86754.33,
+    "Y": -67916.44,
+    "CountryId": 202
+  },
+  {
     "Name": "Kennewick",
     "Country": "washington",
     "X": -90697.5547,
@@ -814,9 +821,16 @@
   {
     "Name": "Omak",
     "Country": "washington",
-    "X": -88428.5,
+    "X": -88427.09,
     "Y": -64937.9,
     "CountryId": 47
+  },
+  {
+    "Name": "Princeton",
+    "Country": "bc",
+    "X": -89375.81,
+    "Y": -71347.5,
+    "CountryId": 202
   },
   {
     "Name": "Yakima",
@@ -854,6 +868,27 @@
     "CountryId": 47
   },
   {
+    "Name": "Coquitlam",
+    "Country": "bc",
+    "X": -99257.3,
+    "Y": -75391.0,
+    "CountryId": 202
+  },
+  {
+    "Name": "Abbotsford",
+    "Country": "bc",
+    "X": -96917.4,
+    "Y": -73090.67,
+    "CountryId": 202
+  },
+  {
+    "Name": "Surrey",
+    "Country": "bc",
+    "X": -100427.766,
+    "Y": -73835.47,
+    "CountryId": 202
+  },
+  {
     "Name": "Olympia",
     "Country": "washington",
     "X": -103216.328,
@@ -880,5 +915,61 @@
     "X": -106348.3,
     "Y": -61543.9,
     "CountryId": 47
+  },
+  {
+    "Name": "Salmon Arm",
+    "Country": "bc",
+    "X": -83868.22,
+    "Y": -77375.09,
+    "CountryId": 202
+  },
+  {
+    "Name": "Penticton",
+    "Country": "bc",
+    "X": -87516.125,
+    "Y": -70789.2344,
+    "CountryId": 202
+  },
+  {
+    "Name": "Kelowna",
+    "Country": "bc",
+    "X": -85491.98,
+    "Y": -73117.42,
+    "CountryId": 202
+  },
+  {
+    "Name": "Vernon",
+    "Country": "bc",
+    "X": -85135.3,
+    "Y": -74767.5156,
+    "CountryId": 202
+  },
+  {
+    "Name": "Kamloops",
+    "Country": "bc",
+    "X": -88172.5547,
+    "Y": -78810.78,
+    "CountryId": 202
+  },
+  {
+    "Name": "Merritt",
+    "Country": "bc",
+    "X": -91582.83,
+    "Y": -76984.625,
+    "CountryId": 202
+  },
+  {
+    "Name": "Hope",
+    "Country": "bc",
+    "X": -93844.41,
+    "Y": -72406.61,
+    "CountryId": 202
+  },
+  {
+    "Name": "Vancouver",
+    "Country": "bc",
+    "X": -102415.406,
+    "Y": -74653.4844,
+    "CountryId": 202
   }
 ]

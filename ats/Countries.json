@@ -61,5 +61,19 @@
     "CountryCode": "CO",
     "X": -43000.0,
     "Y": -2000.0
+  },
+  {
+    "CountryId": 50,
+    "Name": "Wyoming",
+    "CountryCode": "WY",
+    "X": -43000.0,
+    "Y": -2700011.0
+  },
+  {
+    "CountryId": 202,
+    "Name": "British Columbia",
+    "CountryCode": "BC",
+    "X": -95000.0,
+    "Y": -92000.0
   }
 ]

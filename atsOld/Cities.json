@@ -1,0 +1,884 @@
+[
+  {
+    "Name": "Raton",
+    "Country": "new_mexico",
+    "X": -38846.4023,
+    "Y": 9439.629,
+    "CountryId": 31
+  },
+  {
+    "Name": "Durango",
+    "Country": "colorado",
+    "X": -53529.0352,
+    "Y": 5028.40234,
+    "CountryId": 7
+  },
+  {
+    "Name": "Rangely",
+    "Country": "colorado",
+    "X": -54419.9023,
+    "Y": -10241.8711,
+    "CountryId": 7
+  },
+  {
+    "Name": "Vernal",
+    "Country": "utah",
+    "X": -57871.73,
+    "Y": -13199.84,
+    "CountryId": 44
+  },
+  {
+    "Name": "Ogden",
+    "Country": "utah",
+    "X": -68788.7344,
+    "Y": -19876.89,
+    "CountryId": 44
+  },
+  {
+    "Name": "Logan",
+    "Country": "utah",
+    "X": -66398.31,
+    "Y": -22143.57,
+    "CountryId": 44
+  },
+  {
+    "Name": "Coeur d'Alene",
+    "Country": "idaho",
+    "X": -79193.14,
+    "Y": -58598.25,
+    "CountryId": 13
+  },
+  {
+    "Name": "Sandpoint",
+    "Country": "idaho",
+    "X": -78775.04,
+    "Y": -64033.0039,
+    "CountryId": 13
+  },
+  {
+    "Name": "Nampa",
+    "Country": "idaho",
+    "X": -84221.96,
+    "Y": -35760.1055,
+    "CountryId": 13
+  },
+  {
+    "Name": "Boise",
+    "Country": "idaho",
+    "X": -81921.98,
+    "Y": -36446.7656,
+    "CountryId": 13
+  },
+  {
+    "Name": "Spokane",
+    "Country": "washington",
+    "X": -81409.67,
+    "Y": -59659.5078,
+    "CountryId": 47
+  },
+  {
+    "Name": "Ehrenberg",
+    "Country": "arizona",
+    "X": -85959.06,
+    "Y": 21194.57,
+    "CountryId": 3
+  },
+  {
+    "Name": "Ontario",
+    "Country": "oregon",
+    "X": -85290.09,
+    "Y": -39258.9,
+    "CountryId": 37
+  },
+  {
+    "Name": "Yuma",
+    "Country": "arizona",
+    "X": -89356.125,
+    "Y": 25793.23,
+    "CountryId": 3
+  },
+  {
+    "Name": "Pendleton",
+    "Country": "oregon",
+    "X": -91312.4844,
+    "Y": -50048.49,
+    "CountryId": 37
+  },
+  {
+    "Name": "El Centro",
+    "Country": "california",
+    "X": -92373.9844,
+    "Y": 24439.6836,
+    "CountryId": 1
+  },
+  {
+    "Name": "Barstow",
+    "Country": "california",
+    "X": -97233.47,
+    "Y": 11885.16,
+    "CountryId": 1
+  },
+  {
+    "Name": "San Diego",
+    "Country": "california",
+    "X": -99512.36,
+    "Y": 23409.5664,
+    "CountryId": 1
+  },
+  {
+    "Name": "Los Angeles",
+    "Country": "california",
+    "X": -104789.375,
+    "Y": 15624.2891,
+    "CountryId": 1
+  },
+  {
+    "Name": "Carlsbad",
+    "Country": "california",
+    "X": -100837.18,
+    "Y": 20432.1836,
+    "CountryId": 1
+  },
+  {
+    "Name": "Vancouver",
+    "Country": "washington",
+    "X": -103074.781,
+    "Y": -55804.8672,
+    "CountryId": 47
+  },
+  {
+    "Name": "Bakersfield",
+    "Country": "california",
+    "X": -104932.672,
+    "Y": 6423.918,
+    "CountryId": 1
+  },
+  {
+    "Name": "Oxnard",
+    "Country": "california",
+    "X": -107583.688,
+    "Y": 13186.4727,
+    "CountryId": 1
+  },
+  {
+    "Name": "Fresno",
+    "Country": "california",
+    "X": -105663.844,
+    "Y": -689.4219,
+    "CountryId": 1
+  },
+  {
+    "Name": "Truckee",
+    "Country": "california",
+    "X": -106489.211,
+    "Y": -15663.7891,
+    "CountryId": 1
+  },
+  {
+    "Name": "Portland",
+    "Country": "oregon",
+    "X": -105047.0,
+    "Y": -52277.69,
+    "CountryId": 37
+  },
+  {
+    "Name": "Astoria",
+    "Country": "oregon",
+    "X": -107478.266,
+    "Y": -57513.0977,
+    "CountryId": 37
+  },
+  {
+    "Name": "Longview",
+    "Country": "washington",
+    "X": -104561.016,
+    "Y": -57145.93,
+    "CountryId": 47
+  },
+  {
+    "Name": "Huron",
+    "Country": "california",
+    "X": -109380.352,
+    "Y": 1713.4375,
+    "CountryId": 1
+  },
+  {
+    "Name": "Santa Maria",
+    "Country": "california",
+    "X": -111906.813,
+    "Y": 8385.863,
+    "CountryId": 1
+  },
+  {
+    "Name": "Oakdale",
+    "Country": "california",
+    "X": -109427.125,
+    "Y": -7211.52734,
+    "CountryId": 1
+  },
+  {
+    "Name": "Stockton",
+    "Country": "california",
+    "X": -111164.375,
+    "Y": -10447.0352,
+    "CountryId": 1
+  },
+  {
+    "Name": "Sacramento",
+    "Country": "california",
+    "X": -111750.352,
+    "Y": -12853.707,
+    "CountryId": 1
+  },
+  {
+    "Name": "Redding",
+    "Country": "california",
+    "X": -110950.016,
+    "Y": -25264.7266,
+    "CountryId": 1
+  },
+  {
+    "Name": "Hornbrook",
+    "Country": "california",
+    "X": -110319.344,
+    "Y": -31655.71,
+    "CountryId": 1
+  },
+  {
+    "Name": "Santa Cruz",
+    "Country": "california",
+    "X": -115325.453,
+    "Y": -4924.496,
+    "CountryId": 1
+  },
+  {
+    "Name": "Oakland",
+    "Country": "california",
+    "X": -113702.0,
+    "Y": -8728.621,
+    "CountryId": 1
+  },
+  {
+    "Name": "San Francisco",
+    "Country": "california",
+    "X": -114781.594,
+    "Y": -10460.2852,
+    "CountryId": 1
+  },
+  {
+    "Name": "San Rafael",
+    "Country": "california",
+    "X": -115090.805,
+    "Y": -13887.3086,
+    "CountryId": 1
+  },
+  {
+    "Name": "Ukiah",
+    "Country": "california",
+    "X": -117215.2,
+    "Y": -19487.2383,
+    "CountryId": 1
+  },
+  {
+    "Name": "Eureka",
+    "Country": "california",
+    "X": -118791.313,
+    "Y": -27791.5977,
+    "CountryId": 1
+  },
+  {
+    "Name": "Clifton",
+    "Country": "arizona",
+    "X": -62781.98,
+    "Y": 28035.6484,
+    "CountryId": 3
+  },
+  {
+    "Name": "San Simon",
+    "Country": "arizona",
+    "X": -63108.832,
+    "Y": 32947.88,
+    "CountryId": 3
+  },
+  {
+    "Name": "Kayenta",
+    "Country": "arizona",
+    "X": -64327.1641,
+    "Y": 7017.426,
+    "CountryId": 3
+  },
+  {
+    "Name": "Holbrook",
+    "Country": "arizona",
+    "X": -65350.0742,
+    "Y": 17586.125,
+    "CountryId": 3
+  },
+  {
+    "Name": "Show Low",
+    "Country": "arizona",
+    "X": -66190.44,
+    "Y": 21138.1719,
+    "CountryId": 3
+  },
+  {
+    "Name": "Page",
+    "Country": "arizona",
+    "X": -69491.4453,
+    "Y": 5151.77344,
+    "CountryId": 3
+  },
+  {
+    "Name": "Flagstaff",
+    "Country": "arizona",
+    "X": -72199.7,
+    "Y": 13986.1367,
+    "CountryId": 3
+  },
+  {
+    "Name": "Tucson",
+    "Country": "arizona",
+    "X": -71775.18,
+    "Y": 31336.7656,
+    "CountryId": 3
+  },
+  {
+    "Name": "Sierra Vista",
+    "Country": "arizona",
+    "X": -68940.61,
+    "Y": 36233.85,
+    "CountryId": 3
+  },
+  {
+    "Name": "Grand Canyon Village",
+    "Country": "arizona",
+    "X": -73945.125,
+    "Y": 9878.348,
+    "CountryId": 3
+  },
+  {
+    "Name": "Camp Verde",
+    "Country": "arizona",
+    "X": -74276.7344,
+    "Y": 18891.6953,
+    "CountryId": 3
+  },
+  {
+    "Name": "Nogales",
+    "Country": "arizona",
+    "X": -72518.9,
+    "Y": 36429.9961,
+    "CountryId": 3
+  },
+  {
+    "Name": "Phoenix",
+    "Country": "arizona",
+    "X": -77043.6953,
+    "Y": 23928.02,
+    "CountryId": 3
+  },
+  {
+    "Name": "Kingman",
+    "Country": "arizona",
+    "X": -82382.7,
+    "Y": 12882.2891,
+    "CountryId": 3
+  },
+  {
+    "Name": "Burlington",
+    "Country": "colorado",
+    "X": -27260.3125,
+    "Y": -2930.10156,
+    "CountryId": 7
+  },
+  {
+    "Name": "Lamar",
+    "Country": "colorado",
+    "X": -29705.3945,
+    "Y": 3196.76953,
+    "CountryId": 7
+  },
+  {
+    "Name": "Sterling",
+    "Country": "colorado",
+    "X": -32971.0039,
+    "Y": -10938.41,
+    "CountryId": 7
+  },
+  {
+    "Name": "Pueblo",
+    "Country": "colorado",
+    "X": -38865.16,
+    "Y": 2013.71875,
+    "CountryId": 7
+  },
+  {
+    "Name": "Colorado Springs",
+    "Country": "colorado",
+    "X": -37949.51,
+    "Y": -1475.49219,
+    "CountryId": 7
+  },
+  {
+    "Name": "Denver",
+    "Country": "colorado",
+    "X": -38611.53,
+    "Y": -5261.461,
+    "CountryId": 7
+  },
+  {
+    "Name": "Fort Collins",
+    "Country": "colorado",
+    "X": -39616.9258,
+    "Y": -11968.043,
+    "CountryId": 7
+  },
+  {
+    "Name": "Alamosa",
+    "Country": "colorado",
+    "X": -45220.4453,
+    "Y": 5616.09,
+    "CountryId": 7
+  },
+  {
+    "Name": "Steamboat Springs",
+    "Country": "colorado",
+    "X": -46989.0273,
+    "Y": -11796.0625,
+    "CountryId": 7
+  },
+  {
+    "Name": "Montrose",
+    "Country": "colorado",
+    "X": -52839.125,
+    "Y": -1183.71875,
+    "CountryId": 7
+  },
+  {
+    "Name": "Grand Junction",
+    "Country": "colorado",
+    "X": -54660.54,
+    "Y": -4178.97656,
+    "CountryId": 7
+  },
+  {
+    "Name": "Pocatello",
+    "Country": "idaho",
+    "X": -68635.22,
+    "Y": -28935.3516,
+    "CountryId": 13
+  },
+  {
+    "Name": "Idaho Falls",
+    "Country": "idaho",
+    "X": -66107.81,
+    "Y": -33850.5039,
+    "CountryId": 13
+  },
+  {
+    "Name": "Salmon",
+    "Country": "idaho",
+    "X": -71210.33,
+    "Y": -43149.9961,
+    "CountryId": 13
+  },
+  {
+    "Name": "Twin Falls",
+    "Country": "idaho",
+    "X": -76344.69,
+    "Y": -29541.1875,
+    "CountryId": 13
+  },
+  {
+    "Name": "Ketchum",
+    "Country": "idaho",
+    "X": -74235.625,
+    "Y": -35296.2266,
+    "CountryId": 13
+  },
+  {
+    "Name": "Grangeville",
+    "Country": "idaho",
+    "X": -78428.3359,
+    "Y": -49083.5977,
+    "CountryId": 13
+  },
+  {
+    "Name": "Lewiston",
+    "Country": "idaho",
+    "X": -81795.83,
+    "Y": -52129.8477,
+    "CountryId": 13
+  },
+  {
+    "Name": "Jackpot",
+    "Country": "nevada",
+    "X": -78398.8,
+    "Y": -25445.3125,
+    "CountryId": 2
+  },
+  {
+    "Name": "Pioche",
+    "Country": "nevada",
+    "X": -81256.9453,
+    "Y": -5008.51953,
+    "CountryId": 2
+  },
+  {
+    "Name": "Ely",
+    "Country": "nevada",
+    "X": -82717.12,
+    "Y": -10449.5313,
+    "CountryId": 2
+  },
+  {
+    "Name": "Elko",
+    "Country": "nevada",
+    "X": -83788.31,
+    "Y": -19854.3242,
+    "CountryId": 2
+  },
+  {
+    "Name": "Las Vegas",
+    "Country": "nevada",
+    "X": -85371.69,
+    "Y": 6093.14453,
+    "CountryId": 2
+  },
+  {
+    "Name": "Primm",
+    "Country": "nevada",
+    "X": -86987.71,
+    "Y": 9001.891,
+    "CountryId": 2
+  },
+  {
+    "Name": "Winnemucca",
+    "Country": "nevada",
+    "X": -91845.27,
+    "Y": -22516.07,
+    "CountryId": 2
+  },
+  {
+    "Name": "Tonopah",
+    "Country": "nevada",
+    "X": -94370.39,
+    "Y": -6204.64844,
+    "CountryId": 2
+  },
+  {
+    "Name": "Carson City",
+    "Country": "nevada",
+    "X": -102561.359,
+    "Y": -11870.9063,
+    "CountryId": 2
+  },
+  {
+    "Name": "Reno",
+    "Country": "nevada",
+    "X": -103494.781,
+    "Y": -17068.11,
+    "CountryId": 2
+  },
+  {
+    "Name": "Tucumcari",
+    "Country": "new_mexico",
+    "X": -35786.543,
+    "Y": 19689.7617,
+    "CountryId": 31
+  },
+  {
+    "Name": "Clovis",
+    "Country": "new_mexico",
+    "X": -34112.0664,
+    "Y": 24238.6133,
+    "CountryId": 31
+  },
+  {
+    "Name": "Hobbs",
+    "Country": "new_mexico",
+    "X": -34560.05,
+    "Y": 32713.71,
+    "CountryId": 31
+  },
+  {
+    "Name": "Roswell",
+    "Country": "new_mexico",
+    "X": -40313.48,
+    "Y": 29239.36,
+    "CountryId": 31
+  },
+  {
+    "Name": "Carlsbad",
+    "Country": "new_mexico",
+    "X": -38930.77,
+    "Y": 34533.3359,
+    "CountryId": 31
+  },
+  {
+    "Name": "Artesia",
+    "Country": "new_mexico",
+    "X": -40187.3242,
+    "Y": 32421.793,
+    "CountryId": 31
+  },
+  {
+    "Name": "Santa Fe",
+    "Country": "new_mexico",
+    "X": -45502.2539,
+    "Y": 15367.0039,
+    "CountryId": 31
+  },
+  {
+    "Name": "Alamogordo",
+    "Country": "new_mexico",
+    "X": -47194.1836,
+    "Y": 30983.8828,
+    "CountryId": 31
+  },
+  {
+    "Name": "Albuquerque",
+    "Country": "new_mexico",
+    "X": -50341.73,
+    "Y": 19156.5039,
+    "CountryId": 31
+  },
+  {
+    "Name": "Socorro",
+    "Country": "new_mexico",
+    "X": -51197.4063,
+    "Y": 23822.77,
+    "CountryId": 31
+  },
+  {
+    "Name": "Las Cruces",
+    "Country": "new_mexico",
+    "X": -52695.4531,
+    "Y": 33554.51,
+    "CountryId": 31
+  },
+  {
+    "Name": "Farmington",
+    "Country": "new_mexico",
+    "X": -55604.65,
+    "Y": 8393.055,
+    "CountryId": 31
+  },
+  {
+    "Name": "Gallup",
+    "Country": "new_mexico",
+    "X": -58871.6523,
+    "Y": 14928.2031,
+    "CountryId": 31
+  },
+  {
+    "Name": "Burns",
+    "Country": "oregon",
+    "X": -93339.81,
+    "Y": -38271.668,
+    "CountryId": 37
+  },
+  {
+    "Name": "The Dalles",
+    "Country": "oregon",
+    "X": -99410.12,
+    "Y": -51847.75,
+    "CountryId": 37
+  },
+  {
+    "Name": "Lakeview",
+    "Country": "oregon",
+    "X": -100980.25,
+    "Y": -32212.0781,
+    "CountryId": 37
+  },
+  {
+    "Name": "Bend",
+    "Country": "oregon",
+    "X": -101855.828,
+    "Y": -44226.88,
+    "CountryId": 37
+  },
+  {
+    "Name": "Klamath Falls",
+    "Country": "oregon",
+    "X": -106457.508,
+    "Y": -34799.6953,
+    "CountryId": 37
+  },
+  {
+    "Name": "Eugene",
+    "Country": "oregon",
+    "X": -107494.906,
+    "Y": -45748.78,
+    "CountryId": 37
+  },
+  {
+    "Name": "Salem",
+    "Country": "oregon",
+    "X": -106653.234,
+    "Y": -49874.4648,
+    "CountryId": 37
+  },
+  {
+    "Name": "Medford",
+    "Country": "oregon",
+    "X": -111057.805,
+    "Y": -36474.28,
+    "CountryId": 37
+  },
+  {
+    "Name": "Newport",
+    "Country": "oregon",
+    "X": -111335.258,
+    "Y": -48770.3477,
+    "CountryId": 37
+  },
+  {
+    "Name": "Coos Bay",
+    "Country": "oregon",
+    "X": -113881.727,
+    "Y": -42965.5664,
+    "CountryId": 37
+  },
+  {
+    "Name": "Moab",
+    "Country": "utah",
+    "X": -59442.3047,
+    "Y": -3055.875,
+    "CountryId": 44
+  },
+  {
+    "Name": "Price",
+    "Country": "utah",
+    "X": -63180.7773,
+    "Y": -9842.195,
+    "CountryId": 44
+  },
+  {
+    "Name": "Provo",
+    "Country": "utah",
+    "X": -66718.61,
+    "Y": -13684.8125,
+    "CountryId": 44
+  },
+  {
+    "Name": "Salina",
+    "Country": "utah",
+    "X": -69167.18,
+    "Y": -7267.64453,
+    "CountryId": 44
+  },
+  {
+    "Name": "Salt Lake City",
+    "Country": "utah",
+    "X": -68842.17,
+    "Y": -17613.6367,
+    "CountryId": 44
+  },
+  {
+    "Name": "Cedar City",
+    "Country": "utah",
+    "X": -75848.86,
+    "Y": -1992.15234,
+    "CountryId": 44
+  },
+  {
+    "Name": "St. George",
+    "Country": "utah",
+    "X": -79334.55,
+    "Y": 1556.793,
+    "CountryId": 44
+  },
+  {
+    "Name": "Colville",
+    "Country": "washington",
+    "X": -82338.41,
+    "Y": -64400.04,
+    "CountryId": 47
+  },
+  {
+    "Name": "Grand Coulee",
+    "Country": "washington",
+    "X": -86853.22,
+    "Y": -62920.3242,
+    "CountryId": 47
+  },
+  {
+    "Name": "Kennewick",
+    "Country": "washington",
+    "X": -90697.5547,
+    "Y": -53315.332,
+    "CountryId": 47
+  },
+  {
+    "Name": "Omak",
+    "Country": "washington",
+    "X": -88428.5,
+    "Y": -64937.9,
+    "CountryId": 47
+  },
+  {
+    "Name": "Yakima",
+    "Country": "washington",
+    "X": -94870.92,
+    "Y": -56176.26,
+    "CountryId": 47
+  },
+  {
+    "Name": "Wenatchee",
+    "Country": "washington",
+    "X": -92925.51,
+    "Y": -60028.6836,
+    "CountryId": 47
+  },
+  {
+    "Name": "Seattle",
+    "Country": "washington",
+    "X": -99719.23,
+    "Y": -63040.1523,
+    "CountryId": 47
+  },
+  {
+    "Name": "Everett",
+    "Country": "washington",
+    "X": -99044.16,
+    "Y": -65972.3047,
+    "CountryId": 47
+  },
+  {
+    "Name": "Bellingham",
+    "Country": "washington",
+    "X": -99153.1,
+    "Y": -70669.06,
+    "CountryId": 47
+  },
+  {
+    "Name": "Olympia",
+    "Country": "washington",
+    "X": -103216.328,
+    "Y": -61347.05,
+    "CountryId": 47
+  },
+  {
+    "Name": "Tacoma",
+    "Country": "washington",
+    "X": -100845.5,
+    "Y": -61204.9961,
+    "CountryId": 47
+  },
+  {
+    "Name": "Port Angeles",
+    "Country": "washington",
+    "X": -104315.625,
+    "Y": -67626.18,
+    "CountryId": 47
+  },
+  {
+    "Name": "Aberdeen",
+    "Country": "washington",
+    "X": -106348.3,
+    "Y": -61543.9,
+    "CountryId": 47
+  }
+]
