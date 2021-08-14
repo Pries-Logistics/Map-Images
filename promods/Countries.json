@@ -1,0 +1,345 @@
+[
+  {
+    "CountryId": 1,
+    "Name": "Österreich",
+    "CountryCode": "A",
+    "X": 14940.0,
+    "Y": 18780.0
+  },
+  {
+    "CountryId": 2,
+    "Name": "België/Belgique",
+    "CountryCode": "B",
+    "X": -21133.0,
+    "Y": -1133.0
+  },
+  {
+    "CountryId": 18,
+    "Name": "България",
+    "CountryCode": "BG",
+    "X": 57000.0,
+    "Y": 43000.0
+  },
+  {
+    "CountryId": 3,
+    "Name": "Česká republice",
+    "CountryCode": "CZ",
+    "X": 18500.0,
+    "Y": 6000.0
+  },
+  {
+    "CountryId": 21,
+    "Name": "Danmark",
+    "CountryCode": "DK",
+    "X": -2100.0,
+    "Y": -31000.0
+  },
+  {
+    "CountryId": 22,
+    "Name": "Eesti",
+    "CountryCode": "EST",
+    "X": 45000.0,
+    "Y": -47500.0
+  },
+  {
+    "CountryId": 23,
+    "Name": "Suomi",
+    "CountryCode": "FIN",
+    "X": 42000.0,
+    "Y": -65000.0
+  },
+  {
+    "CountryId": 4,
+    "Name": "France",
+    "CountryCode": "F",
+    "X": -32380.0,
+    "Y": 13210.0
+  },
+  {
+    "CountryId": 5,
+    "Name": "Deutschland",
+    "CountryCode": "D",
+    "X": -2770.0,
+    "Y": -370.0
+  },
+  {
+    "CountryId": 13,
+    "Name": "Magyarország",
+    "CountryCode": "H",
+    "X": 32055.0,
+    "Y": 19000.0
+  },
+  {
+    "CountryId": 6,
+    "Name": "Italia",
+    "CountryCode": "I",
+    "X": -4210.0,
+    "Y": 31600.0
+  },
+  {
+    "CountryId": 28,
+    "Name": "Latvija",
+    "CountryCode": "LV",
+    "X": 49500.0,
+    "Y": -39000.0
+  },
+  {
+    "CountryId": 30,
+    "Name": "Lietuva",
+    "CountryCode": "LT",
+    "X": 42000.0,
+    "Y": -28000.0
+  },
+  {
+    "CountryId": 12,
+    "Name": "Lëtzebuerg",
+    "CountryCode": "L",
+    "X": -17090.0,
+    "Y": 2880.0
+  },
+  {
+    "CountryId": 7,
+    "Name": "Nederland",
+    "CountryCode": "NL",
+    "X": -15575.0,
+    "Y": -9660.0
+  },
+  {
+    "CountryId": 35,
+    "Name": "Norge",
+    "CountryCode": "N",
+    "X": -2800.0,
+    "Y": -55000.0
+  },
+  {
+    "CountryId": 8,
+    "Name": "Polska",
+    "CountryCode": "PL",
+    "X": 32130.0,
+    "Y": -8330.0
+  },
+  {
+    "CountryId": 37,
+    "Name": "România",
+    "CountryCode": "RO",
+    "X": 50000.0,
+    "Y": 22000.0
+  },
+  {
+    "CountryId": 38,
+    "Name": "Россия",
+    "CountryCode": "RUS",
+    "X": 59500.0,
+    "Y": -51500.0
+  },
+  {
+    "CountryId": 11,
+    "Name": "Slovensko",
+    "CountryCode": "SK",
+    "X": 32055.0,
+    "Y": 12000.0
+  },
+  {
+    "CountryId": 43,
+    "Name": "Sverige",
+    "CountryCode": "S",
+    "X": 14500.0,
+    "Y": -45000.0
+  },
+  {
+    "CountryId": 9,
+    "Name": "Schweiz",
+    "CountryCode": "CH",
+    "X": -9369.0,
+    "Y": 21470.0
+  },
+  {
+    "CountryId": 44,
+    "Name": "Türkiye",
+    "CountryCode": "TR",
+    "X": 103184.0,
+    "Y": 55303.0
+  },
+  {
+    "CountryId": 10,
+    "Name": "United Kingdom",
+    "CountryCode": "GB",
+    "X": -42290.0,
+    "Y": -14150.0
+  },
+  {
+    "CountryId": 42,
+    "Name": "España",
+    "CountryCode": "E",
+    "X": -67500.0,
+    "Y": 52500.0
+  },
+  {
+    "CountryId": 36,
+    "Name": "Portugal",
+    "CountryCode": "P",
+    "X": -87500.0,
+    "Y": 47000.0
+  },
+  {
+    "CountryId": 29,
+    "Name": "Liechtenstein",
+    "CountryCode": "FL",
+    "X": -3600.0,
+    "Y": 20000.0
+  },
+  {
+    "CountryId": 27,
+    "Name": "Ireland",
+    "CountryCode": "IRL",
+    "X": -69000.0,
+    "Y": -33000.0
+  },
+  {
+    "CountryId": 210,
+    "Name": "",
+    "CountryCode": "GB",
+    "X": -64500.0,
+    "Y": -43000.0
+  },
+  {
+    "CountryId": 26,
+    "Name": "Ísland",
+    "CountryCode": "IS",
+    "X": -82000.0,
+    "Y": -97500.0
+  },
+  {
+    "CountryId": 221,
+    "Name": "Føroyar",
+    "CountryCode": "FO",
+    "X": -51800.0,
+    "Y": -83500.0
+  },
+  {
+    "CountryId": 41,
+    "Name": "Slovenija",
+    "CountryCode": "SLO",
+    "X": 16000.0,
+    "Y": 25500.0
+  },
+  {
+    "CountryId": 19,
+    "Name": "Hrvatska",
+    "CountryCode": "HR",
+    "X": 23600.0,
+    "Y": 29500.0
+  },
+  {
+    "CountryId": 15,
+    "Name": "Andorra",
+    "CountryCode": "AND",
+    "X": -39800.0,
+    "Y": 41600.0
+  },
+  {
+    "CountryId": 45,
+    "Name": "Україна",
+    "CountryCode": "UA",
+    "X": 61100.0,
+    "Y": -1300.0
+  },
+  {
+    "CountryId": 32,
+    "Name": "Moldova",
+    "CountryCode": "MD",
+    "X": 69000.0,
+    "Y": 14500.0
+  },
+  {
+    "CountryId": 25,
+    "Name": "Ελλάδα",
+    "CountryCode": "GR",
+    "X": 47000.0,
+    "Y": 62000.0
+  },
+  {
+    "CountryId": 203,
+    "Name": "Isle of Man",
+    "CountryCode": "GBM",
+    "X": -53980.0,
+    "Y": -36245.0
+  },
+  {
+    "CountryId": 17,
+    "Name": "Bosna i Hercegovina",
+    "CountryCode": "BIH",
+    "X": 29000.0,
+    "Y": 37000.0
+  },
+  {
+    "CountryId": 40,
+    "Name": "Србија",
+    "CountryCode": "SRB",
+    "X": 40000.0,
+    "Y": 36000.0
+  },
+  {
+    "CountryId": 222,
+    "Name": "Jersey",
+    "CountryCode": "GBJ",
+    "X": -47400.0,
+    "Y": 1750.0
+  },
+  {
+    "CountryId": 234,
+    "Name": "Македонија",
+    "CountryCode": "MK",
+    "X": 46500.0,
+    "Y": 50000.0
+  },
+  {
+    "CountryId": 34,
+    "Name": "Црна Гора",
+    "CountryCode": "MNE",
+    "X": 36000.0,
+    "Y": 44000.0
+  },
+  {
+    "CountryId": 14,
+    "Name": "Shqipëria",
+    "CountryCode": "AL",
+    "X": 39500.0,
+    "Y": 56000.0
+  },
+  {
+    "CountryId": 235,
+    "Name": "",
+    "CountryCode": "AX",
+    "X": 30000.0,
+    "Y": -52000.0
+  },
+  {
+    "CountryId": 20,
+    "Name": "Κύπρος",
+    "CountryCode": "CY",
+    "X": 100000.0,
+    "Y": 78500.0
+  },
+  {
+    "CountryId": 254,
+    "Name": "Svalbard",
+    "CountryCode": "N",
+    "X": 20300.0,
+    "Y": -162400.0
+  },
+  {
+    "CountryId": 24,
+    "Name": "საქართველო",
+    "CountryCode": "GE",
+    "X": 133000.0,
+    "Y": 28000.0
+  },
+  {
+    "CountryId": 16,
+    "Name": "Беларусь",
+    "CountryCode": "BY",
+    "X": 59073.0,
+    "Y": -15130.0
+  }
+]
