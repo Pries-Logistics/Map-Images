@@ -1,0 +1,15 @@
+{
+  "BackgroundImageUrl": "https://cdn.prieslogistics.com/tracker/background.png",
+  "Files": [
+    {
+      "Name": "SCS Telemetry Plugin",
+      "SourceUrl": "https://cdn.prieslogistics.com/tracker/scs-telemetry.dll",
+      "InstallLocation": "GameBinDir"
+    },
+    {
+      "Name": "Tracker Files",
+      "SourceUrl": "https://cdn.prieslogistics.com/tracker/Tracker.zip",
+      "InstallLocation": "TrackerDir"
+    }
+  ]
+}
